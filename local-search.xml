@@ -4,6 +4,39 @@
   
   
   <entry>
+    <title>LeetCode系列-双指针</title>
+    <link href="/2021/11/05/LeetCode%E7%B3%BB%E5%88%97-%E5%8F%8C%E6%8C%87%E9%92%88/"/>
+    <url>/2021/11/05/LeetCode%E7%B3%BB%E5%88%97-%E5%8F%8C%E6%8C%87%E9%92%88/</url>
+    
+    <content type="html"><![CDATA[<p>双指针存在以下情况：<br>1.同向，2个指针一起往相同方向走，如情侣约会；<br>2.背向，2个指针在相同位置或者相隔的位置，背对而走，其中1个指针停止则停止，如情侣吵架了，其中男方认错了；<br>3.相向，2个指针面对面移动，相遇停止，如异地好久不见，终于在车站相遇了。</p><p>同向双指针：</p><p>背向双指针:</p><ul><li><a href="https://leetcode-cn.com/problems/longest-palindrome/">Leetcode 409. Longest Palindrome</a><br>理解：随机字符拼接成回文字符的最大长度是多少</li></ul><p>相向双指针：</p><blockquote><p>参考<br><a href="https://zhuanlan.zhihu.com/p/349940945">https://zhuanlan.zhihu.com/p/349940945</a></p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>算法</category>
+      
+      <category>leetcode</category>
+      
+      <category>双指针</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>算法</tag>
+      
+      <tag>leetcode</tag>
+      
+      <tag>双指针</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>LeetCode系列-层序遍历</title>
     <link href="/2021/11/05/LeetCode%E7%B3%BB%E5%88%97-%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/"/>
     <url>/2021/11/05/LeetCode%E7%B3%BB%E5%88%97-%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/</url>
